@@ -1,3 +1,4 @@
 config.py
 secure/
 __pycache__/
+debug.log
